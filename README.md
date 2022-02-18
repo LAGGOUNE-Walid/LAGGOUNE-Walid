@@ -7,8 +7,8 @@ I'm someone who likes to **write code**, and writer in *https://blog.celec-usthb
 <hr/>
 <br/>
 <p align = "center">
-   <img src="https://github-readme-stats.vercel.app/api?username=LAGGOUNE-Walid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="LAGGOUNE's github stats" width=800 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAGGOUNE-Walid&theme=dark&hide=html,css&hide_langs_below=1" width=500 />
+   <img src="https://github-readme-stats.vercel.app/api?username=LAGGOUNE-Walid&count_private=true&hide=stars&show_icons=true&line_height=27" alt="LAGGOUNE's github stats" width=800 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAGGOUNE-Walid&hide=html,css&hide_langs_below=1" width=500 />
 </p>
 <h2 align="center">
 Technologies and Languages </h2>

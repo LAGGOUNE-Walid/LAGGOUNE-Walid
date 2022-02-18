@@ -6,8 +6,8 @@ I'm someone who likes to **write code**, and writer in *https://blog.celec-usthb
 
 <br>
 <a href="https://github.com/LAGGOUNE-Walid">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAGGOUNE-Walid&theme=dark&hide_langs_below=1" height="220px"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAGGOUNE-Walid&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
 <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LAGGOUNE-Walid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="LAGGOUNE's github stats" height="220px" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LAGGOUNE-Walid&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="LAGGOUNE's github stats" height="220px" />
 </a>

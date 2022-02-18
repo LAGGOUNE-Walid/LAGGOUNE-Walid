@@ -2,6 +2,6 @@
 
 ### Hey!
 
-I'm someone who likes to **write code**.
+I'm someone who likes to **write code**, and writer in *https://blog.celec-usthb.com*.
 
 <br>

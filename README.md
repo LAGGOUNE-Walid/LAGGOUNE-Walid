@@ -34,6 +34,10 @@ Technologies and Languages </h2>
 <img src="https://img.shields.io/badge/apache%20echarts-%23AA344D.svg?&style=for-the-badge&logo=apache%20echarts&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/curl-%23073551.svg?&style=for-the-badge&logo=curl&logoColor=white" />
+<img src="https://img.shields.io/badge/socket.io-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)

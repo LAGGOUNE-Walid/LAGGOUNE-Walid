@@ -1,4 +1,4 @@
-<img width="20%" align="left" src="https://avatars.githubusercontent.com/u/16167585?s=400&u=2adb4203be21cd62ceb981d78eece82e989a2051&v=4">
+<img width="20%" align="left" src="http://1.bp.blogspot.com/__Ws638p-N98/Sw27o7PuquI/AAAAAAAAACk/7Wyef3pToK0/s1600/Screen+shot+2009-11-25+at+23.19.24.png">
 
 ### Hey!
 

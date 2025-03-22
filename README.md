@@ -2,5 +2,5 @@
 
 ### Hey!
 I’m someone who enjoys writing **code** 
-I write sometimes : https://dev.to/l_walid/introduction-to-go-variables-pointers-memory-allocation-and-assignments-4h47
+I write sometimes : [https://dev.to/l_walid/introduction-to-go-variables-pointers-memory-allocation-and-assignments-4h47](https://dev.to/l_walid)
 <br/>
